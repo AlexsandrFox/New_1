@@ -1,0 +1,5 @@
+Bug 0001 Приоритет:High Серьезность:Blocker
+Bug 0002 Приоритет:Medium Серьезность:Critical
+Bug 0003 Приоритет:Low Серьезность:Minor
+Bug 0004 Приоритет:High Серьезность:Blocker
+Bug 0005 Приоритет:Medium Серьезность:Critical
